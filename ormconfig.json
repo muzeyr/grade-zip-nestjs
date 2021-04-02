@@ -1,0 +1,10 @@
+{
+  "type": "mysql",
+  "host": "safirtrading.com.tr",
+  "port": 3306,
+  "username": "monetapo_dev",
+  "password": "m!350951KeM",
+  "database": "monetapo_nestjs",
+  "entities": ["src/**/**.entity{.ts,.js}"],
+  "synchronize": true
+}
